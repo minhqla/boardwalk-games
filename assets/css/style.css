@@ -96,6 +96,16 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+#discount-tag {
+    display: inline-block;
+    padding: 4px 1rem;
+    background-color: var(--highlight-color);
+    color: white;
+}
+.labels {
+    padding-bottom: 7px;
+}
+
 /* Game library cards */
 
 #new-games .card,
